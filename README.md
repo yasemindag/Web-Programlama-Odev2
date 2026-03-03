@@ -1,5 +1,5 @@
 # Web-Programlama-Odev2
-# EDANUR BUTİK - WEB PROGRAMLAMA ÖDEVİ
+# EDANUR BUTİK - CSS Tabanlı E-Ticaret Arayüzü
 
 ## PROJE AMACI
 Bu projede CSS ile layout (Flexbox ve Grid), responsive tasarım, typography, bileşen stilleri, hover/focus durumları ve CSS değişkenleri kullanımını uygulamalı olarak göstermek amaçlanmıştır.
